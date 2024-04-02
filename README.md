@@ -11,5 +11,12 @@ Expected et result font les mêmes choses pour créer le même objet money mais 
 
 
 # Refactoring TP
-9- on doit redéfinir (override) dans chaque classe Hommes
+9- on doit redéfinir (override) dans chaque classe Homme
 
+# Mes informations :
+Numéro d'Inscription: 1090 H-F
+Nom : RAKOTONIRINA
+Prénom :  Njaraniaina James
+Mention : Informatique
+Parcours : Informatique Générale
+Niveau : Master I
